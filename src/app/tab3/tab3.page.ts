@@ -7,7 +7,6 @@ import { SenhasService } from '../services/senhas.service';
   styleUrls: ['tab3.page.scss']
 })
 export class Tab3Page {
-
   constructor(public senhasService: SenhasService) {}
 
 }
